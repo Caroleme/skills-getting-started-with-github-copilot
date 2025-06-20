@@ -52,6 +52,18 @@ activities = {
         "max_participants": 15,
         "participants": ["liam@mergington.edu", "ava@mergington.edu"]
     },
+    "Track and Field": {
+        "description": "Train for running, jumping, and throwing events",
+        "schedule": "Mondays and Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 25,
+        "participants": ["william@mergington.edu", "ella@mergington.edu"]
+    },
+    "Swimming Club": {
+        "description": "Improve swimming techniques and compete in swim meets",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": ["james@mergington.edu", "grace@mergington.edu"]
+    },
     # Artistic activities
     "Art Club": {
         "description": "Explore painting, drawing, and other visual arts",
@@ -65,6 +77,18 @@ activities = {
         "max_participants": 20,
         "participants": ["amelia@mergington.edu", "jack@mergington.edu"]
     },
+    "Photography Club": {
+        "description": "Learn photography skills and participate in photo walks",
+        "schedule": "Fridays, 3:00 PM - 4:30 PM",
+        "max_participants": 12,
+        "participants": ["lucy@mergington.edu", "henry@mergington.edu"]
+    },
+    "Music Ensemble": {
+        "description": "Play instruments and perform in school concerts",
+        "schedule": "Tuesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 18,
+        "participants": ["leo@mergington.edu", "zoe@mergington.edu"]
+    },
     # Intellectual activities
     "Math Olympiad": {
         "description": "Prepare for math competitions and solve challenging problems",
@@ -77,6 +101,18 @@ activities = {
         "schedule": "Fridays, 2:00 PM - 3:30 PM",
         "max_participants": 22,
         "participants": ["benjamin@mergington.edu", "harper@mergington.edu"]
+    },
+    "Debate Team": {
+        "description": "Develop public speaking and argumentation skills",
+        "schedule": "Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 14,
+        "participants": ["samuel@mergington.edu", "lily@mergington.edu"]
+    },
+    "Robotics Club": {
+        "description": "Build robots and compete in robotics competitions",
+        "schedule": "Mondays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": ["alex@mergington.edu", "nora@mergington.edu"]
     }
 }
 
